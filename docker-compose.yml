@@ -1,4 +1,4 @@
 version: '2'
 services:
  helloworld:
-   image: local/hello.1
+   image: local/hello-python
